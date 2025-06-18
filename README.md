@@ -1,4 +1,4 @@
-## NEKO-ISC24-Virtual
+## NEKO at ISC'24 Student Cluster Competition
 The International Supercomputing Conference 2024 (ISC24) features a Student Cluster Competition (SCC) where teams from universities around the world compete against each other. This repository focuses on the virtual part of the competition.
 
 The virtual part was open for all teams, the teams were connecting to remote clusters and run HPC applications, performing benchmarks and participate in the given challenges. In total 19 universities from all over the world participated in the virual competition. For the virtual part, the teams competed over Bridges-2 supercomputer provided by Pittsburgh Supercomputing Center (PSC).
